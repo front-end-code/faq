@@ -1,0 +1,343 @@
+@font-face {
+    font-family: 'light';
+    src: url(../fonts/Montserrat-Light.ttf);
+}
+@font-face {
+    font-family: 'regular';
+    src: url(../fonts/Montserrat-Regular.ttf)
+}
+
+body {
+    background-color: #BADA55;
+    padding: 100px 150px;
+    font-family: 'light';
+    font-size: 16px;
+    letter-spacing: .5px;
+}
+.app_wrapper {
+    position: relative;
+    background-color: #fff;
+    padding: 30px 50px;
+    min-height: calc(100vh - 50px);
+    overflow: hidden;
+}
+.menu_bar {
+    position: absolute;
+    top: 0;
+    left: -200px;
+    width: 200px;
+    height: 100%;
+    background-color: #bada55;
+    z-index: 10;
+    transition: left .3s;
+    border: 2px solid #fff;
+}
+.burger_menu {
+    position: absolute;
+    top: 10px;
+    right: -40px;
+    background-image: url(../media/svg/bars-solid.svg);
+    background-repeat: no-repeat;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    transition: right .2s;
+}
+.changeIcon {
+    width: 30px;
+    height: 30px;
+    right: 0;
+    background-image: url(../media/svg/times-solid.svg);
+}
+.showMenu {
+    left: 0;
+}
+.menu {
+    position: absolute;
+    top: 50px;
+    width: 100%;
+}
+.menu_item {
+    width: 100%;
+    font-family: 'regular';
+    font-size: 20px;
+    display: block;
+    padding: 10px 0 10px 20px;
+    text-transform: capitalize;
+    color: #fff;
+}
+.menu_item:hover {
+    color: #bada55;
+    background-color: #fff;
+}
+.menu_active {
+    color: #bada55;
+    background-color: #fff;
+}
+.facebook_icon {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 30px;
+    height: 40px;
+    background-image: url(../media/svg/facebook-square-brands.svg);
+    background-repeat: no-repeat;
+}
+.hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 50px;
+}
+.main_title {
+    font-family: 'regular';
+    color: #BADA55;
+    font-size: 24px;
+    margin: 30px 0 0;
+    font-weight: bold;
+}
+.logo {
+    width: 138px;
+    height: 132px;
+    background-image: url(../media/logo_didi.webp);
+
+}
+.search_form {
+    /* display: flex; */
+}
+.search_input {
+    font-family: 'light';
+    width: 100%;
+    height: 40px;
+    padding: 0 0 0 10px;
+    margin-bottom: 30px;
+    border: 1px solid #BADA55;
+    border-radius: 10px;
+}
+.outputed_items {
+    border-bottom: 1px solid #BADA55;
+}
+.main_subtitle {
+    color: rgba(65,65,65,1);
+    font-size: 16px;
+    line-height: 20px;
+    position: relative;
+    padding: 30px 30px 30px 0;
+    cursor: pointer;
+}
+.main_subtitle:hover {
+    background-color: rgb(247, 244, 244);
+}
+.main_subtitle::after {
+    content: url(../media/svg/chevron-down-solid.svg);
+    position: absolute;
+    right: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 10px;
+}
+.main_subtitle.plus::after {
+    content: url(../media/svg/chevron-up-solid.svg);
+}
+.faq_content {
+    height: 0;
+    overflow: hidden;
+    transition: all .2s;
+}
+.faq_body {
+    font-size: 14px;
+    line-height: 20px;
+}
+.faq_content .show_img { 
+    display: block;
+}
+.faq_content .show_img img {
+    display: block;
+    height: 300px;
+    width: auto;
+    margin: 20px auto 0;
+    cursor: zoom-in;
+    transition: all .2s;
+}
+.zoomInImg {
+    top: 0;
+    left: 0;
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    z-index: 100;
+    background: rgba(0,0,0, .8);
+    overflow-y: auto;
+    cursor: zoom-out !important;
+}
+.zoomInImg .img {
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    transform: translateX(-50%);
+    height: auto !important;
+    width: 70vw !important;
+    cursor: zoom-out !important;
+}
+.faq_content .hide_img { 
+   display: none;
+}
+.info_message {
+    font-family: 'regular';
+    padding: 20px 0 0 0;
+    color: #BADA55;
+}
+.show_content {
+    height: auto;
+    overflow: visible;
+    padding: 10px 0 30px;
+}
+.list {
+    /* background: orange; */
+}
+.list_item {
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    color: rgba(65,65,65,1);
+    min-height: 30px;
+    margin-bottom: 5px;
+}
+.list_item__link {
+    font-family: 'regular';
+    color: #BADA55;
+}
+.list_item__icon {
+    height: 20px;
+}
+/*=================== conatct_form-section =============*/
+.conatct_form-section {
+    margin: 50px 0 0;
+}
+h3 {
+    font-family: 'regular';
+    font-weight: bold;
+    line-height: 20px;
+    margin-bottom: 30px;
+}
+.contact_form {
+    width: 60%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+.contact_form > p {
+    font-size: 18px;
+    margin: 0 0 10px;
+}
+.contact_form input,
+.form_select {
+    font-family: 'light';
+    height: 40px;
+    font-size: 14px;
+    padding: 0 0 0 10px;
+    margin-bottom: 20px;
+    border: 1px solid #BADA55;
+    border-radius: 10px;
+}
+.form_input_text {
+
+}
+.form_input_email {
+
+}
+.form_textarea {
+    font-family: 'light';
+    margin-bottom: 20px;
+    min-height: 140px;
+    max-height: 140px;
+    min-width: 100%;
+    max-width: 100%;
+    padding: 10px 0 0 10px;
+    border: 1px solid #BADA55;
+    border-radius: 10px;
+}
+.form_button {
+    font-family: 'light';
+    width: 150px;
+    border: 1px solid #BADA55;
+    padding: 10px 0;
+    transition: all .2s;
+    border-radius: 19px;
+    margin: 0 0 0 auto;
+}
+.form_button:hover {
+    color: #fff;
+    background: #BADA55;
+    border: 1px solid transparent;
+}
+/*=================== Policies Page =====================*/
+.policies_content {
+
+}
+.policies_title {
+    font-family: 'regular';
+    font-size: 18px;
+    font-weight: bold;
+}
+.policies_subtitle {
+    font-weight: bold;
+    margin: 40px 0 20px;
+}
+.policies_text {
+    font-size: 14px;
+    line-height: 20px;
+    text-indent: 30px;
+    margin-bottom: 5px;
+}
+/*=================== Res ===============================*/
+@media screen and (max-width: 990px) {
+    body {
+        padding: 40px 80px;
+        font-size: 14px;
+    }
+    h1 {
+        font-size: 18px;
+    }
+    h2 {
+        font-size: 14px;
+    }
+    .faq_body {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .faq_content .show_img img {
+        height: 120px;
+    }
+    .zoomInImg .img {
+        width: 80vw !important;
+    }
+    .contact_form {
+        width: 80%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    body {
+        padding: 20px;
+        font-size: 13px;
+    }
+    .app_wrapper {
+        background-color: #fff;
+        padding: 20px;
+    }
+    h1 {
+        font-size: 16px;
+    }
+    h2 {
+        font-size: 13px;
+    }
+    .faq_body {
+        font-size: 13px;
+        line-height: 19px;
+    }
+    .contact_form {
+        width: 100%;
+    }
+}

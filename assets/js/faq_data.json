@@ -1,0 +1,372 @@
+[
+    {
+        "title": "What is For Free and how does it work?",
+        "body": "“For Free” is a free of charge app, where you can receive or give away free items and use free messages and free calls of the app for this purpose.",
+        "list": [],
+        "img": ""
+    },
+    {
+        "title": "Is “For Free” free to use?",
+        "body": "Yes, “For Free” is completely free.",
+        "list": [],
+        "img": ""
+    },
+    {
+        "title": "Is there a mobile app?",
+        "body": "Yes. “For Free” is a mobile app, that has Android OS and iOS support. <br>Download from:",
+        "list": ["For Android OS – Google Play Store > <a href='#' class='list_item__link'>LINK HERE</a>", "For iOS – Apple Store ><a href='#' class='list_item__link'>LINK HERE</a>"],
+        "img": ""
+    },
+    {
+        "title": "When do I need to register?",
+        "body": "You need to register in case of any action, other than browsing.",
+        "list": [],
+        "img": ""
+    },
+    {
+        "title": "Can I browse the app without registering?",
+        "body": "Yes. You will be able to browse the app with the status of “Guest”.",
+        "list": [],
+        "img": "./assets/media/Guest.png"
+    },
+    {
+        "title": "How to register?",
+        "body": "If you make any actions in the “Guest” mode then you will go to the registration and login page.",
+        "list": ["1. Sign up automatically with your Google, Facebook account or in order to enter the data click “Sign up” button.",
+                "2. Select taking a photo or select a photo from the album from the displayed menu, after clicking on the avatar of the app “For Free”, after selecting and confirming of which, the avatar will be replaced with your photo.", 
+                "3. Enter your data in the boxes:",
+                "3.1 Name.",
+                "3.2 Telephone number (Not required).",
+                "3.3 Email address (Your email address will be your account’s “Log in” in the future).",
+                "3.4 By clicking the “Location” button, your location will be automatically searched and included in the field.",
+                "3.5 Select and type the password desirable for you.",
+                "3.6 Enter additional information about yourself (not required).",
+                "4. After confirmation, an activation link will be sent to the email specified by you, after the confirmation of which your account will be activated."],
+        "img": "./assets/media/Reg1.png",
+        "img_2": "./assets/media/Reg2.png"
+    },
+    {
+        "title": "I haven't received the verification email after signing up.",
+        "body": "Email perceives similar emails as spam, so search for confirmation email in spam folder.",
+        "list": [],
+        "img": ""
+    },
+    {
+        "title": "How do I change language to For Free?",
+        "body": "",
+        "list": ["Method # 1 - Select the language on the sign up and log in page",
+                "Swipe the left menu <img src='./assets/media/3-dots.png' alt='' class='list_item__icon'>",
+                "Method #2 – Select the language on the left swipeable menu.",
+                "In the list displayed, find the language you wish by name or find it in the grid."],
+        "img": "./assets/media/Change_language.png"
+    },
+    {
+        "title": "What is my username and how do I change it?",
+        "body": "Your “User name” is your e-mail address, by which you have signed up.  Changing the “User name” is impossible.",
+        "list": [],
+        "img": ""
+    },
+    {
+        "title": "How do I change my profile picture?",
+        "body": "",
+        "list": ["1. Swipe the left menu <img src='./assets/media/3-dots.png' alt='' class='list_item__icon'>",
+                "2. Click the “Edit info” button",
+                "3. Click the profile photo",
+                "4. Select from the menu “Take Photo” or “Take from album”",
+                "5. After adding the photo click the “OK” button"],
+        "img": "./assets/media/change_profile_picture.png"
+    },
+    {
+        "title": "How do I change my name?",
+        "body": "",
+        "list": ["1. Swipe the left menu <img src='./assets/media/3-dots.png' alt='' class='list_item__icon'>",
+                "2. Click the “Edit info” button",
+                "3. Change the name and click the “OK” button for confirmation"],
+        "img": "./assets/media/change_name.png"
+    },
+    {
+        "title": "How do I change my phone number?",
+        "body": "",
+        "list": ["1. Swipe the left menu <img src='./assets/media/3-dots.png' alt='' class='list_item__icon'>",
+                "2.  Click the “Edit info” button",
+                "3. Change your old phone number with a new one and click the “OK” button for confirmation"],
+        "img": "./assets/media/change_phone_number.png"
+    },
+    {
+        "title": "How do I change my email address?",
+        "body": "You cannot change the email address, as the email address specified at the time of registration is used as your personal account identifier.",
+        "list": [],
+        "img": ""
+    },
+    {
+        "title": "How do I change my location?",
+        "body": "",
+        "list": ["1. Swipe the left menu <img src='./assets/media/3-dots.png' alt='' class='list_item__icon'>",
+                "2. Click the “Edit info” button",
+                "3. Change your old location with a new one and click the “OK” button for confirmation."],
+        "img": "./assets/media/change_location.png"
+    },
+    {
+        "title": "How do I change my password?",
+        "body": "",
+        "list": ["1. Swipe the left menu <img src='./assets/media/3-dots.png' alt='' class='list_item__icon'>",
+                "2. Click the “Edit info” button",
+                "3. Change your old password with a new one and click the “OK” button for confirmation."],
+        "img": "./assets/media/Change_password.png"
+    },
+    {
+        "title": "How do I change info about me?",
+        "body": "",
+        "list": ["1. Swipe the left menu <img src='./assets/media/3-dots.png' alt='' class='list_item__icon'>",
+                "2. Click the “Edit info” button",
+                "3. Change the text and click the “OK” button for confirmation."],
+        "img": "./assets/media/about_me.png"
+    },
+    {
+        "title": "Where are all the posts?",
+        "body": "All ads can be viewed on the app’s homepage.",
+        "list": ["In order to go to homepage click the “Home” button on the lower panel."],
+        "img": "./assets/media/all_posts.png"
+    },
+    {
+        "title": "How do I refresh my homepage?",
+        "body": "The homepage automatically updates every 5 minutes.",
+        "list": ["In order to manually update, swipe the screen from the top to the bottom in the main menu, after which an update sign will appear."],
+        "img": "./assets/media/refresh_page.png"
+    },
+    {
+        "title": "How do I find ads by category?",
+        "body": "Select a category after which will be displayed only those posts, whichever category you have chosen.",
+        "list": ["You will be able to return to the homepage and shared posts with the 'HOME' button."],
+        "img": "./assets/media/ads_category.png"
+    },
+    {
+        "title": "How do I find an item using filters?",
+        "body": "",
+        "list": ["1. Click the “filter” button.",
+                "2. Select the category in which you want to search for items.",
+                "3. Open location to search by distance.",
+                "4. Mark the place on the map, from where you wish counting the distance and click the “Set location” button.",
+                "5. Select the distance measuring unit KM/MI.",
+                "6. Set the distance radius, where the desired category items will be searched.",
+                "7. Select sorting, posting date and click the “See results” button.",
+                "8. In order to rerun to the initial state of filters click on the “Reset” button and confirm"],
+        "img": "./assets/media/product_filtering.png"
+    },
+    {
+        "title": "How do I add/remove items to cart?",
+        "body": "",
+        "list": ["1. After selecting the item, click on the “cart” button.",
+                "2. You should answer “yes” to the notification “Save to cart”?",
+                "3. The number of saved items will be seen on the “cart” on the lower panel.  You will be able to see the list by clicking on the cart.",
+                "4. Click on the “remove” button for the item saved in the cart.",
+                "5. On the displayed notification “Remove from cart?” you should answer “Yes”."],
+        "img": "./assets/media/add_remove_item_from_cart.png"
+    },
+    {
+        "title": "How do I find the item's location in the ads?",
+        "body": "",
+        "list": ["1. Click and open the item.",
+                "2. Click the map.",
+                "3. Click on the drawing pin on the map."],
+        "img": "./assets/media/items_location.png"
+    },
+    {
+        "title": "How do I reply to a post that I'm interested in?",
+        "body": "After selecting the item you can talk to the gifter by means of free chat and free calling of the app “For Free”.",
+        "list": [],
+        "img": ""
+    },
+    {
+        "title": "How do I contact with the gifter?",
+        "body": "",
+        "list": ["1. Click and open the item.",
+                "2. You can write a free message.",
+                "3. You can make a free call."],
+        "img": "./assets/media/call_to_gifter.png"
+    },
+    {
+        "title": "I reply to a post and nothing happens!",
+        "body": "If you contacted the gifter, it is up to the gifter to respond.",
+        "list": [],
+        "img": ""
+    },
+    {
+        "title": "How and where should I arrange the pickup of an item?",
+        "body": "Organizing of transfer or receipt of an item takes place directly between the gifter and the receiver.",
+        "list": [],
+        "img": ""
+    },
+    {
+        "title": "How do items change hands - are they picked up or delivered?",
+        "body": "The item is free and you must either take it or negotiate with each other.",
+        "list": [],
+        "img": ""
+    },
+    {
+        "title": "Where do replies to my posts and messages go?",
+        "body": "Conversations can be found in the chat section.",
+        "list": [],
+        "img": "./assets/media/replies_posts_messages.png"
+    },
+    {
+        "title": "How do I report?",
+        "body": "",
+        "list": ["1. Open the ad.","2. Scroll down to the bottom and click the “Report” button."],
+        "img": "./assets/media/report.png"
+    },
+    {
+        "title": "How do I post the ad?",
+        "body": "",
+        "list": ["1. Click the “gifting” button on the Homepage",
+                "2. Select the category where you want your post to be placed",
+                "3. Take a photo of the item or add it from an album",
+                "4. If desired, add photos from the camera or album",
+                "5. Enter the name of the item in the title",
+                "6. Select from the list the denotative of the condition of the item",
+                "7. By clicking on the location sign, your location will be marked out or mark manually the location of the item on the screen",
+                "8. To select the duration of the ad, if desired, click the button and set the desired date and confirm",
+                "9. Click the “POST” button to post your ad"],
+        "img": "./assets/media/post.png"
+    },
+    {
+        "title": "When I try to post, the submit button doesn't do anything!",
+        "body": "Make sure, that you have filled all the required fields in the ad.",
+        "list": [],
+        "img": ""
+    },
+    {
+        "title": "Can I buy, sell, trade or barter?",
+        "body": "No. Only gifting or assistance to other users free of charge is allowed in the “For free” app.",
+        "list": [],
+        "img": ""
+    },
+    {
+        "title": "Can animals and pets be posted?",
+        "body": "Yes, you can place the animals in the appropriate section.",
+        "list": [],
+        "img": ""
+    },
+    {
+        "title": "How can I delete, remove or edit my posts?",
+        "body": "",
+        "list": ["1. You will not be able to correct the ad but you can delete the ads you have posted",
+            "2. After clicking  <img src='./assets/media/recycle-bin.jpg' alt='' class='list_item__icon'>  button, agree with the 'YES' button to the notification 'Do you want to delete your post?'"],
+        "img": "./assets/media/delete_remove_edit_posts.png"
+    },
+    {
+        "title": "How do I choose who to give my offer to?",
+        "body": "Anyone interested in gifting your item will contact you via free chat and free calling. Only you decide to whom to give the item.",
+        "list": [],
+        "img": ""
+    },
+    {
+        "title": "How do I mark my Offer as gifted?",
+        "body": "Remove the item you have already gifted from the ads.",
+        "list": [],
+        "img": ""
+    },
+    {
+        "title": "How do I block the user?",
+        "body": "",
+        "list": ["1. Open the ad.",
+                "2. Click the “Chat” button.",
+                "3. Click the “Block” button.",
+                "4. Answer 'Yes' to the displayed notification."],
+        "img": "./assets/media/block_user.png"
+    },
+    {
+        "title": "How to unblock the user?",
+        "body": "",
+        "list": ["1. Open the ad.",
+                "2. Click the “Chat” button.",
+                "3. Click the “Unblock” button.",
+                "4. Answer 'Yes' to the displayed notification."],
+        "img": "./assets/media/unblock_user.png"
+    },
+    {
+        "title": "How do I invite people to For Free?",
+        "body": "",
+        "list": ["1. Click the menu in the upper left corner.",
+                "2. Select “Invite friends” on the displayed menu.",
+                "3. From the list displayed by your device, select the messenger, SMS, email, etc.",
+                "4. Select a contact from the list and send them a link for downloading the app “For free”."],
+        "img": "./assets/media/Invite_friends.png"
+    },
+    {
+        "title": "I don't see any posts?",
+        "body": "",
+        "list": ["1. Make sure you have an internet connection on your device.",
+                "2. In case of no internet connection or interruption, the application will notify you the “Connection problem”."],
+        "img": "./assets/media/I_don't_see_any_posts.png"
+    },
+    {
+        "title": "If I cannot log in how do I reset account?",
+        "body": "Reset your password or contact our Help Center.",
+        "list": [],
+        "img": ""
+    },
+    {
+        "title": "If I forgot my password, what should I do?",
+        "body": "",
+        "list": ["1. Type email in the field on the Login Page, by which you are registered on the app “For free”.",
+                "2. Click on the 'Forgot password' button, after which you will see the notification, that a password has been sent to your email."],
+        "img": "./assets/media/Forgot_Password.png"
+    },
+    {
+        "title": "How do I apply for support?",
+        "body": "",
+        "list": ["1.  Swipe the left menu.",
+                "2. Select the “Support” on the displayed menu."],
+        "img": "./assets/media/suport.png"
+    },
+    {
+        "title": "How do I unsubscribe from a ”For Free” ?",
+        "body": "Remove your account.",
+        "list": [],
+        "img": ""
+    },
+    {
+        "title": "How do I remove my account?",
+        "body": "",
+        "list": ["1. Click in <img src='./assets/media/3-dots.png' alt='' class='list_item__icon'> the upper left corner of the main menu.",
+                "2. Select „Settings“ on the displayed menu.",
+                "3. Click „Remove Account“ and answer “yes” to the question “Are you sure you want to remove your account?”.",
+                "4. From the list displayed, select the reason why you remove your account.",
+                "5. You will receive the confirmation “Remove Account” on that email, by which you are registered on the app.",
+                " 6. Approve the account removal."],
+        "img": "./assets/media/remove_account.png"
+    },
+    {
+        "title": "How do I activate my account if I change Device?",
+        "body": "",
+        "list": ["Enter your email address on the login box on the device.",
+                "Type your account password and confirm."],
+        "img": "./assets/media/Log_in.png"
+    },
+    {
+        "title": "What is the Fair Offer Policy?",
+        "body": "Go to the link: <a href='' class='list_item__link'>Link here</a>",
+        "list": [],
+        "img": ""
+    },
+    {
+        "title": "What are the rules and guidelines?",
+        "body": "Go to the link: <a href='' class='list_item__link'>Link here</a>",
+        "list": [],
+        "img": ""
+    },
+    {
+        "title": "How can I use my existing membership account with For Free?",
+        "body": "Go to the link: <a href='' class='list_item__link'>Link here</a>",
+        "list": [],
+        "img": ""
+    },
+    {
+        "title": "Where are the terms of use and the privacy policy?",
+        "body": "",
+        "list": ["1. Swipe the left menu.",
+                "2. Click the “Policies” button."],
+        "img": "./assets/media/Privace_police.png"
+    }
+]

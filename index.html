@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Faq | Wellcome</title>
+    <link rel="stylesheet" href="./assets//styles/reset.css">
+    <link rel="stylesheet" href="./assets//styles/main.css">
+</head>
+<body>
+    <section class="app_wrapper">
+        <section class="menu_bar">
+            <section class="burger_menu"></section>
+            <nav class="menu">
+                <a href="index.html" class="menu_item menu_active">ForFree</a>
+                <a href="policies.html" class="menu_item">Policies</a>
+                <a href="about.html" class="menu_item">About</a>
+                <a href="contact.html" class="menu_item">Contact</a>
+            </nav>
+        </section>
+        <a href="https://www.facebook.com/ForFreeApp/" target="_blank" class="facebook_icon"></a>
+        <!-- Hero Image -->
+        <section class="hero">
+            <section class="logo"></section>
+            <h1 class="main_title">Search on "For Free" help</h1>
+        </section>
+
+        <!-- Search Form -->
+        <form class="search_form">
+            <input type="text" class="search_input" id="search_input" name="faqs" placeholder='Search on "For Free" help' />
+        </form>
+
+        <!-- Output -->
+        <section class="output"></section>
+
+        <section class="conatct_form-section">
+            <h3>Please try searching above before contacting us. But if you can't find the answers you need, don't hesitate to ask a new question.</h3>
+
+            <form class="contact_form">
+                <p>Contact to support</p>
+                <input type="text" class="form_input_text" name="user_name" placeholder="Name" /> 
+                <input type="email" class="form_input_email" name="user_mail" placeholder="Your E-Mail" /> 
+                <select class="form_select" name="user_problems">
+                    <option value="" selected>Choose your problem from the list</option>
+                    <option value="registration">Registration</option>
+                    <option value="notifications">Notificationes</option>
+                    <option value="account">Account</option>
+                    <option value="posts">Posts</option>
+                </select>
+                <textarea class="form_textarea" name="user_message" placeholder="Please use English language.."></textarea>
+                <button class="form_button">Send</button>
+            </form>
+        </section>
+
+    </section>
+    <script src="./assets/js/scripts.js"></script>
+    <script src="./assets/js/menu.js"></script>
+</body>
+</html>

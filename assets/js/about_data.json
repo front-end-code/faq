@@ -1,0 +1,140 @@
+[
+    {
+        "title": "Warning",
+        "body": "You can write, warn and help others on this page. For example, if you see something that can be important or dangerous for someone. Anyone who has the app For Free will receive the information about the Warning within 10 miles/16 kilometers.",
+        "list": [],
+        "img": "./assets/media/about/warning.png"
+    },
+    {
+        "title": "Help to find",
+        "body": "You can ask for help on this page, in case somebody sees a lost item, animal or human.<br> Anyone who has the app For Free will receive the information about the lost, within 10 miles/16 kilometers.",
+        "list": [],
+        "img": "./assets/media/about/find.png"
+    },
+    {
+        "title": "Housing",
+        "body": "",
+        "list": ["You can post information on this page, like you do not have a place of residence, if you are a student, or if you are a person with low income.",
+                "As well as posting here, like you would like to let someone live at your house free of charge under certain conditions.",
+                "In case of matching location (10 miles/16 kilometers) or conditions specified in the application, both parties will receive a notification from For Free."],
+        "img": "./assets/media/about/housing.png"
+    },
+    {
+        "title": "I am in need",
+        "body": "On this page, you can specify and describe the help or items that you need but cannot afford.",
+        "list": [],
+        "img": "./assets/media/about/iNeed.png"
+    },
+    {
+        "title": "For home",
+        "body": "You can give away or receive the item for free from this page, which is intended for home.",
+        "list": [],
+        "img": "./assets/media/about/home.png"
+    },
+    {
+        "title": "Transportation & parts",
+        "body": "You can give away or receive a vehicle/transportation and spare parts from this page.",
+        "list": [],
+        "img": "./assets/media/about/transportation.png"
+    },
+    {
+        "title": "Knowledge & Experience",
+        "body": "",
+        "list": ["You can share your knowledge and experience for free with people who need it",
+            "As well as requesting for others advice and experience on the specific case"],
+        "img": "./assets/media/about/knowledge.png"
+    },
+    {
+        "title": "Electronics",
+        "body": "You can give away or receive any kind of electrical/technical items for free from this page.",
+        "list": [],
+        "img": "./assets/media/about/electronics.png"
+    },
+    {
+        "title": "Outdoor & Party",
+        "body": "You can give away or receive items for your yard, outdoor perimeter, or party for free from this page.",
+        "list": [],
+        "img": "./assets/media/about/outdoor.png"
+    },
+    {
+        "title": "Animals & Plants",
+        "body": "You can give away or receive animals and plants, as well as the items intended for them for free from this page.",
+        "list": [],
+        "img": "./assets/media/about/animals.png"
+    },
+    {
+        "title": "Sport & Relax",
+        "body": "You can give away or receive the items intended for sport and leisure for free from this page.",
+        "list": [],
+        "img": "./assets/media/about/sport.png"
+    },
+    {
+        "title": "Clothing & Accessories",
+        "body": "You can give away or receive clothes or accessories for free from this page",
+        "list": [],
+        "img": "./assets/media/about/clothing.png"
+    },
+    {
+        "title": "For baby & Child",
+        "body": "You can give away or receive baby/child accessories and items for free from this page.",
+        "list": [],
+        "img": "./assets/media/about/child.png"
+    },
+    {
+        "title": "Books & Games",
+        "body": "You can give away or receive books and games for free from this page.",
+        "list": [],
+        "img": "./assets/media/about/books.png"
+    },
+    {
+        "title": "Musical instruments",
+        "body": "You can give away or receive musical instruments and accessories for free from this page",
+        "list": [],
+        "img": "./assets/media/about/instruments.png"
+    },
+    {
+        "title": "Medical supplies & medications",
+        "body": "You can give away or receive medicines or medical inventory for free from this group.",
+        "list": [],
+        "img": "./assets/media/about/medical.png"
+    },
+    {
+        "title": "Help with moving items",
+        "body": "You can receive help for free from this page or help others with moving if they can not afford it.",
+        "list": [],
+        "img": "./assets/media/about/movingItems.png"
+    },
+    {
+        "title": "Groceries",
+        "body": "You can give away or receive food products for free from this page.",
+        "list": [],
+        "img": "./assets/media/about/groceries.png"
+    },
+    {
+        "title": "Intern",
+        "body": "",
+        "list": ["You can post information and data in this page as an applicant for an internship.",
+                "As well as post information about looking for an intern."],
+        "img": "./assets/media/about/intern.png"
+    },
+    {
+        "title": "Volunteer",
+        "body": "",
+        "list": ["You can post your information and your abilities on this page, as an applicant for volunteering.",
+                "As well as post information about looking for volunteers."],
+        "img": "./assets/media/about/valunteer.png"
+    },
+    {
+        "title": "Blood donation",
+        "body": "",
+        "list": ["you can post information about your blood group on this page and help those who may need your blood donation.",
+                "As well as posting information about needing a specific blood group."],
+        "img": "./assets/media/about/donation.png"
+    },
+    {
+        "title": "Other",
+        "body": "You can post or receive the items or help that are not specified above by us for free on this page.",
+        "list": [],
+        "img": "./assets/media/about/other.png"
+    }
+]
