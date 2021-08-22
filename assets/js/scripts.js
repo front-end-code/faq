@@ -4,14 +4,14 @@ let output = document.querySelector('.output');
 let SearchValue = searchInput.value;
 
 
-let serverDataUrl = 'http://tbilisi.atwebpages.com/faq/assets/js/faq_data.json';
-let localDataUrl = 'http://127.0.0.1:5500/assets/js/faq_data.json'
+let serverDataUrl = 'https://geo-faq.netlify.app/assets/js/about_data.json';
+let localDataUrl = 'http://127.0.0.1:5500/faq-project-master/assets/js/faq_data.json';
 
 
 // Loadind Data
 document.addEventListener('load', loadingData());
 async function loadingData () {
-    const response = await fetch(localDataUrl);
+    const response = await fetch(serverDataUrl);
     const questions = await response.json();
 
     const html = questions.map(question => `
@@ -39,7 +39,7 @@ async function loadingData () {
 }
 // Search Data
 const searchFaqs = async searchText => {
-    const res = await fetch(localDataUrl);
+    const res = await fetch(serverDataUrl);
     const faqs = await res.json();
     
     let matches = faqs.filter( faq => {
