@@ -4,7 +4,7 @@ let output = document.querySelector('#output');
 let SearchValue = searchInput.value;
 
 
-let serverDataUrl = 'http://tbilisi.atwebpages.com/faq/assets/js/about_data.json';
+let serverDataUrl = 'https://geo-faq.netlify.app/assets/js/about_data.json';
 let localDataUrl = 'http://127.0.0.1:5500/assets/js/about_data.json'
 
 
