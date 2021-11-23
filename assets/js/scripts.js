@@ -5,7 +5,7 @@ let SearchValue = searchInput.value;
 
 
 let serverDataUrl = 'https://geo-faq.netlify.app/assets/js/about_data.json';
-let localDataUrl = 'http://127.0.0.1:5500/faq-project-master/assets/js/faq_data.json';
+let localDataUrl = 'http://127.0.0.1:5501/faq-project-master/assets/js/faq_data.json';
 
 
 // Loadind Data
